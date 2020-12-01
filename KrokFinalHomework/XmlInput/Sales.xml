@@ -1,0 +1,35 @@
+<sales>
+    <sale>
+        <idSale>1</idSale>
+        <idSeller>2</idSeller>
+        <idProduct>2</idProduct>
+        <quantitySold>5</quantitySold>
+        <dateOfSale>
+            <year>2020</year>
+            <month>10</month>
+            <day>21</day>
+        </dateOfSale>
+    </sale>
+    <sale>
+        <idSale>2</idSale>
+        <idSeller>1</idSeller>
+        <idProduct>1</idProduct>
+        <quantitySold>5</quantitySold>
+        <dateOfSale>
+            <year>2020</year>
+            <month>10</month>
+            <day>22</day>
+        </dateOfSale>
+    </sale>
+    <sale>
+        <idSale>2</idSale>
+        <idSeller>1</idSeller>
+        <idProduct>1</idProduct>
+        <quantitySold>5</quantitySold>
+        <dateOfSale>
+            <year>2020</year>
+            <month>10</month>
+            <day>22</day>
+        </dateOfSale>
+    </sale>
+</sales>

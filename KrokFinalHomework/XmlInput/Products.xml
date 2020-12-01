@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<products>
+    <product>
+        <idProduct>1</idProduct>
+        <nameProduct>"Молоко"</nameProduct>
+    </product>
+    <product>
+        <idProduct>2</idProduct>
+        <nameProduct>"Кефир"</nameProduct>
+    </product>
+    <product>
+        <idProduct>3</idProduct>
+        <nameProduct>"Сметана"</nameProduct>
+    </product>
+</products>

@@ -1,0 +1,26 @@
+<productsInStock>
+    <productInStock>
+        <idSeller>1</idSeller>
+        <idProduct>1</idProduct>
+        <priceProduct>100</priceProduct>
+        <quantityProduct>10</quantityProduct>
+    </productInStock>
+    <productInStock>
+        <idSeller>2</idSeller>
+        <idProduct>2</idProduct>
+        <priceProduct>200</priceProduct>
+        <quantityProduct>20</quantityProduct>
+    </productInStock>
+    <productInStock>
+        <idSeller>3</idSeller>
+        <idProduct>2</idProduct>
+        <priceProduct>200</priceProduct>
+        <quantityProduct>40</quantityProduct>
+    </productInStock>
+    <productInStock>
+        <idSeller>1</idSeller>
+        <idProduct>3</idProduct>
+        <priceProduct>100</priceProduct>
+        <quantityProduct>100</quantityProduct>
+    </productInStock>
+</productsInStock>

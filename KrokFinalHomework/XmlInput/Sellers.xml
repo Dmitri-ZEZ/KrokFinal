@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<sellers>
+    <seller>
+        <idSeller>1</idSeller>
+        <surnameSeller>Иванов</surnameSeller>
+        <nameSeller>Иван</nameSeller>
+    </seller>
+    <seller>
+        <idSeller>2</idSeller>
+        <surnameSeller>Петров</surnameSeller>
+        <nameSeller>Пётр</nameSeller>
+    </seller>
+    <seller>
+        <idSeller>3</idSeller>
+        <surnameSeller>Сидоров</surnameSeller>
+        <nameSeller>Андрей</nameSeller>
+    </seller>
+</sellers>
